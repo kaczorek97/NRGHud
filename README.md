@@ -7,6 +7,8 @@
 
 ---
 
+🌐 [Visit NrgScripts.com](https://nrgscripts.com)
+
 ## 🎯 Features
 
 ### 🧩 Fully Customizable
